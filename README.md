@@ -2,6 +2,8 @@
 
 `yr` is a **domain-specific language (DSL)** designed to streamline multi-stack development projects. Built for frontend, backend, and DevOps workflows, it merges stacks such as HTML, CSS, JS, Bash, and Python into a single cohesive language. It eliminates the need for heavy frameworks and excessive boilerplate by using indentation-based syntax, reusable macros, and modular wrapper files.
 
+Think of `yr` as a way to organize a project file. You still write HTML, CSS, JS, Python, and Bash — you just write them all in the same place, separated by simple markers.
+
 ---
 
 ## Purpose
